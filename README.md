@@ -142,10 +142,18 @@ Each project README includes:
 
 # Progress
 
-| Category               | Status |
-| ---------------------- | ------ |
-| Mathematics            | - [ ]  |
-| Classical ML           | - [ ]  |
+## Classical Machine Learning
+
+- [ ] Linear Regression
+- [ ] Logistic Regression
+- [ ] K-Nearest Neighbors
+- [ ] Decision Trees
+- [ ] Random Forest
+- [ ] Support Vector Machine
+- [ ] Naive Bayes
+- [ ] K-Means
+- [ ] DBSCAN
+- [ ] PCA
 
 
 ---
